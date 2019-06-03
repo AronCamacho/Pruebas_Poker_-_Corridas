@@ -26,6 +26,7 @@ Vemos que nos arroja los siguientes resultados:
 Comparamos el valor Zo en la tabla de la distribucion normal con un viel del confinza del 0.05 el cual es Z=1.96 y vemos si esta serie pasa
 la prueba
 
+![6](https://user-images.githubusercontent.com/33550350/58817767-14429b00-85f2-11e9-97d8-72e0f36b46fb.PNG)
 
 
 
