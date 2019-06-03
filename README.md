@@ -5,7 +5,12 @@
 ![1](https://user-images.githubusercontent.com/33550350/58817076-84e8b800-85f0-11e9-981f-c3ab09df2181.PNG)
 
 ## Corridas
--Se va a realizar la prueba de las corridas para una serie de 100 numeros:
+Se va a realizar la prueba de las corridas para una serie de 100 numeros:
+
+![2](https://user-images.githubusercontent.com/33550350/58817268-004a6980-85f1-11e9-92b4-f17210cf4728.PNG)
+
+Se aplica la condicion de que si cada numero es >0.5 se lo convierte un 1 caso contrario 0
+aplicando esta condicion sale lo siguiente
 
 
 
