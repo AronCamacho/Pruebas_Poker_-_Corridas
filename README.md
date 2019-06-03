@@ -18,6 +18,11 @@ Luego aplicacos las formulas para sacar las varibales necesarias para calcular e
 
 ![4](https://user-images.githubusercontent.com/33550350/58817563-9c747080-85f1-11e9-8974-a27616deaee2.PNG)
 
+Vemos que nos arroja los siguientes resultados:
+
+![5](https://user-images.githubusercontent.com/33550350/58817681-ec533780-85f1-11e9-8b3f-c1f6c223ed67.PNG)
+
+
 Comparamos el valor Zo en la tabla de la distribucion normal con un viel del confinza del 0.05 el cual es Z=1.96 y vemos si esta serie pasa
 la prueba
 
