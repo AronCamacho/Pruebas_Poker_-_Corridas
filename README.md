@@ -16,6 +16,12 @@ aplicando esta condicion sale lo siguiente:
 
 Luego aplicacos las formulas para sacar las varibales necesarias para calcular el estadistico Z
 
+![4](https://user-images.githubusercontent.com/33550350/58817563-9c747080-85f1-11e9-8974-a27616deaee2.PNG)
+
+Comparamos el valor Zo en la tabla de la distribucion normal con un viel del confinza del 0.05 el cual es Z=1.96 y vemos si esta serie pasa
+la prueba
+
+
 
 
 
